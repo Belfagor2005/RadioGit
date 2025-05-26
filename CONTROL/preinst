@@ -1,0 +1,13 @@
+#!/bin/sh
+echo "Checking for an older version of RadioGit in the system..."
+if [ -d /usr/lib/enigma2/python/Plugins/Extensions/RadioGit ]
+then
+rm -rf /usr/lib/enigma2/python/Plugins/Extensions/RadioGit > /dev/null 2>&1
+echo "An older version of RadioGit was found and removed"
+echo "Proceeding to installation..."
+else
+echo "RadioGit was not found in the system"
+fi
+
+
+exit 0
