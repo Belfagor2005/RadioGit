@@ -1,0 +1,20 @@
+<screen name="GitRadio" position="0,0" size="1920,1080" backgroundColor="transparent" flags="wfNoBorder">
+    <eLabel text="Git Radio IPTV" position="90,39" size="1145,75" noWrap="1" transparent="1" font="Regular;45" backgroundColor="#30000000" foregroundColor="#a64d79" valign="center" halign="center" zPosition="6"/>
+    <widget name="list" position="90,203" size="1145,750" backgroundColor="#ffffff" foregroundColor="#ffccff" backgroundColorSelected="#743554" foregroundColorSelected="#ffffcc" zPosition="1" scrollbarMode="showOnDemand" transparent="1"/>
+    <widget name="text" position="90,115" size="1145,75" zPosition="1" backgroundColor="#30000000" transparent="1" font="Regular; 38" halign="center" foregroundColor="#f4b700"/>
+    <widget name="title" position="1221,72" size="462,69" noWrap="1" zPosition="1" transparent="1" font="Regular; 48" valign="center" halign="center" backgroundColor="#30000000" foregroundColor="#1edb76"/>
+    <widget name="red" position="74,1005" size="297,59" font="Regular;30" halign="center" valign="center" backgroundColor="#30000000" foregroundColor="#00ffffff" transparent="1" zPosition="1"/>
+    <widget name="green" position="401,1005" size="297,59" font="Regular;30" halign="center" valign="center" backgroundColor="#30000000" foregroundColor="#00ffffff" transparent="1" zPosition="1"/>
+    <widget name="yellow" position="732,1005" size="297,59" font="Regular;30" halign="center" valign="center" backgroundColor="#30000000" foregroundColor="#00ffffff" transparent="1" zPosition="1"/>
+    <widget name="blue" position="1054,1005" size="297,59" font="Regular;30" halign="center" valign="center" backgroundColor="#30000000" foregroundColor="#00ffffff" transparent="1" zPosition="1"/>
+    <eLabel backgroundColor="#00ff0000" position="73,1063" size="300,6" zPosition="4"/>
+    <eLabel backgroundColor="#0000ff00" position="400,1064" size="300,6" zPosition="4"/>
+    <eLabel backgroundColor="#00ffff00" position="732,1064" size="300,6" zPosition="4"/>
+    <eLabel backgroundColor="#000000ff" position="1052,1065" size="300,6" zPosition="4"/>
+    <widget source="global.CurrentTime" render="Label" position="1328,147" size="250,80" font="Regular; 78" halign="center" backgroundColor="#30000000" transparent="1" valign="center" foregroundColor="#49bbff">
+        <convert type="ClockToText">Default</convert>
+    </widget>
+    <eLabel backgroundColor="#30000000" position="0,0" size="1920,1080" transparent="0" zPosition="-9" foregroundColor="#00ffffff"/>
+    <eLabel backgroundColor="#00ffffff" position="0,999" size="1920,3" zPosition="2"/>
+    <ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/RadioGit/skin/images_new/main.png" position="0,0" size="1920,1080" alphatest="blend" zPosition="-8"/>
+</screen>
