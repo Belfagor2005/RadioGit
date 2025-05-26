@@ -1,6 +1,6 @@
 #   RadioGit  ![Plugin RadioGit](https://github.com/Belfagor2005/RadioGit/blob/main/usr/lib/enigma2/python/Plugins/Extensions/RadioGit/plugin.png?raw=true)
 
-![GitHub Repo Content](https://img.shields.io/badge/github-junguler/m3u--radio--music--playlists-blue)
+![GitHub Repo Content](https://img.shields.io/badge/github-junguler/m3u--radio--music--playlists-blue) [![Python package](https://github.com/Belfagor2005/RadioGit/actions/workflows/pylint.yml/badge.svg)](https://github.com/Belfagor2005/RadioGit/actions/workflows/pylint.yml) ![](https://komarev.com/ghpvc/?username=Belfagor2005)
 
 ```markdown
 # 🎵 M3U IPTV Repo Explorer Plugin
