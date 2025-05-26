@@ -1,4 +1,4 @@
-# RadioGit
+#   RadioGit  [img]https://github.com/Belfagor2005/RadioGit/blob/main/usr/lib/enigma2/python/Plugins/Extensions/RadioGit/plugin.png?raw=true[/img]
 ![GitHub Repo Content](https://img.shields.io/badge/github-junguler/m3u--radio--music--playlists-blue)
 
 ```markdown
