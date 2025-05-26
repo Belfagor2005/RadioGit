@@ -1,9 +1,9 @@
 # RadioGit
+![GitHub Repo Content](https://img.shields.io/badge/github-junguler/m3u--radio--music--playlists-blue)
 
 ```markdown
 # 🎵 M3U IPTV Repo Explorer Plugin
 
-![GitHub Repo Content](https://img.shields.io/badge/github-junguler/m3u--radio--music--playlists-blue)
 
 ## Overview
 
