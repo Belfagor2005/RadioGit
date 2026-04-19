@@ -1,8 +1,21 @@
-#   RadioGit  ![Plugin RadioGit](https://github.com/Belfagor2005/RadioGit/blob/main/usr/lib/enigma2/python/Plugins/Extensions/RadioGit/plugin.png?raw=true)
+<h1 align="center">📻 RadioGit</h1>
 
-![GitHub Repo Content](https://img.shields.io/badge/github-junguler/m3u--radio--music--playlists-blue) [![Python package](https://github.com/Belfagor2005/RadioGit/actions/workflows/pylint.yml/badge.svg)](https://github.com/Belfagor2005/RadioGit/actions/workflows/pylint.yml) ![](https://komarev.com/ghpvc/?username=Belfagor2005)
+![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)
+[![Version](https://img.shields.io/badge/Version.-1.4-blue.svg)](https://github.com/Belfagor2005/RadioGit)
+[![Enigma2](https://img.shields.io/badge/Enigma2-Plugin-ff6600.svg)](https://www.enigma2.net)
+[![Python](https://img.shields.io/badge/Python-3-blue.svg)](https://www.python.org)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Python package](https://github.com/Belfagor2005/RadioGit/actions/workflows/pylint.yml/badge.svg)](https://github.com/Belfagor2005/RadioGit/actions/workflows/pylint.yml) 
+[![Ruff Status](https://github.com/Belfagor2005/RadioGit/actions/workflows/ruff.yml/badge.svg)](https://github.com/Belfagor2005/RadioGit/actions/workflows/ruff.yml)
+[![GitHub stars](https://img.shields.io/github/stars/Belfagor2005/RadioGit?style=social)](https://github.com/Belfagor2005/RadioGit/stargazers)
+[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](Maintainers.md#maintainers "Donate")
 
-```markdown
+
+![Plugin RadioGit](https://github.com/Belfagor2005/RadioGit/blob/main/usr/lib/enigma2/python/Plugins/Extensions/RadioGit/plugin.png?raw=true)
+
+![GitHub Repo Content](https://img.shields.io/badge/github-junguler/m3u--radio--music--playlists-blue) 
+
+
 # 🎵 M3U IPTV Repo Explorer Plugin
 
 
@@ -98,11 +111,11 @@ Created by **Lululla**
 
 ---
 
-Feel free to open issues or contribute!
+📻 Feel free to open issues or contribute!
 
 ---
 
 ⭐️ If you find this plugin useful, please give it a star on GitHub!
 
-```
+
 
