@@ -2,25 +2,6 @@
 # -*- coding: utf-8 -*-
 from __future__ import absolute_import, print_function
 
-"""
-#########################################################
-#                                                       #
-#  Archimede Radio Git Plugin                           #
-#  Version: 1.2                                         #
-#  Created by Lululla (https://github.com/Belfagor2005) #
-#  License: CC BY-NC-SA 4.0                             #
-#  https://creativecommons.org/licenses/by-nc-sa/4.0    #
-#  Last Modified: "11:56 - 20250526"                    #
-#                                                       #
-#  Credits:                                             #
-#  - Original concept by Lululla                        #
-#  Usage of this code without proper attribution        #
-#  is strictly prohibited.                              #
-#  For modifications and redistribution,                #
-#  please maintain this credit header.                  #
-#########################################################
-"""
-__author__ = "Lululla"
 
 # Standard library
 from os import stat, remove
@@ -70,6 +51,25 @@ from Screens.VirtualKeyBoard import VirtualKeyBoard
 
 from . import _, __version__
 from . import Utils
+"""
+#########################################################
+#                                                       #
+#  Archimede Radio Git Plugin                           #
+#  Version: 1.2                                         #
+#  Created by Lululla (https://github.com/Belfagor2005) #
+#  License: CC BY-NC-SA 4.0                             #
+#  https://creativecommons.org/licenses/by-nc-sa/4.0    #
+#  Last Modified: "11:56 - 20250526"                    #
+#                                                       #
+#  Credits:                                             #
+#  - Original concept by Lululla                        #
+#  Usage of this code without proper attribution        #
+#  is strictly prohibited.                              #
+#  For modifications and redistribution,                #
+#  please maintain this credit header.                  #
+#########################################################
+"""
+__author__ = "Lululla"
 
 PY3 = version_info.major >= 3
 plugin_path = '/usr/lib/enigma2/python/Plugins/Extensions/RadioGit'
